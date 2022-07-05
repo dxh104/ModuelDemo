@@ -1,0 +1,5 @@
+rootProject.name='ModuelDemo'
+include ':app'
+include ':app_main1'
+include ':app_main2'
+include ':app_base'
